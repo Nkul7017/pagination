@@ -1,0 +1,7 @@
+#prevButton:disabled,
+#nextButton:disabled {
+    background-color: #ccc; /* Change background color */
+    color: #666; /* Change text color */
+    cursor: not-allowed; /* Change cursor to indicate it's not clickable */
+    /* You can add more styles as needed */
+}
